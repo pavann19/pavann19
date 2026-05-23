@@ -4,7 +4,7 @@
 
 I am a Computer Science Engineering (AI/ML) student and researcher focused on bridging complex AI logic with physical systems, and building robust governance frameworks for autonomous agents. My current work centers on LLM safety architectures, digital identity containment, and robotic systems integration.
 
-📫 **Reach me at:** [Your Email] | [Your LinkedIn Profile] | [Your Google Scholar / Portfolio]
+📫 **Reach me at:** [pavan9542644804@gmail.com] | [https://www.linkedin.com/in/pavan-gannoju/] | [https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/]
 
 ---
 
