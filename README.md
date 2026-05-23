@@ -18,30 +18,83 @@ Software Engineer | Backend Systems | AI Infrastructure & Scalable Applications
 
 ## 💡 About Me
 
-I am a Computer Science Engineering student with hands-on experience in backend development, REST APIs, and scalable software application development.
+I am a Computer Science Engineering student with hands-on experience in backend development, REST APIs, workflow orchestration, and scalable software systems.
 
-My engineering approach focuses on building:
-- reliable backend systems
-- scalable architectures
-- workflow automation pipelines
-- production-oriented infrastructure
+My engineering approach focuses on:
+- building reliable backend systems
+- designing scalable architectures
+- automating workflows
+- creating production-oriented infrastructure
 
 ### 🎓 Academic Background
 - B.Tech in Computer Science & Engineering (AI/ML)
 - Minor Certification in Artificial Intelligence — IIT Ropar
 
-### 🚀 Core Focus Areas
-- Backend Engineering & Microservices Architecture
-- API Design & Traffic Regulation
-- Scalable Data-Processing Workflows
-- AI Infrastructure & Deployment Engineering
-- Workflow Automation Systems
+### 🚀 Engineering Interests
+- Backend Engineering
+- AI Infrastructure
+- Distributed Systems
+- Workflow Automation
+- Scalable API Architectures
 
 ---
 
 <br>
 
-# 🛠️ Tech Stack
+# 🛠️ Engineering Stack
+
+## Backend Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC_Systems-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Orchestration-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Request_Validation-7C3AED?style=for-the-badge"/>
+</p>
+
+## Database & Storage Systems
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+## Infrastructure & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+## Workflow & System Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Workflow_Automation-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Validation_Pipelines-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Background_Jobs-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Testing-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile_SDLC-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular_Architecture-334155?style=for-the-badge"/>
+</p>
+
+## AI Infrastructure & Applications
+
+<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Workflows-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Infrastructure-1E293B?style=for-the-badge"/>
+</p>
 
 ## Languages
 
@@ -53,39 +106,6 @@ My engineering approach focuses on building:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## Backend & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-## Workflow & System Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/AI_Infrastructure-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Workflow_Automation-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile_SDLC-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System_Testing-EE4C2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RBAC_Systems-0F172A?style=for-the-badge"/>
-</p>
-
-## Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
 ---
 
 <br>
@@ -95,10 +115,10 @@ My engineering approach focuses on building:
 ## Software Engineering Intern (AI Intern) — Prodigal AI Technologies Pvt. Ltd.
 **March 2025 – November 2025**
 
-- Led a team of intern engineers to develop modular backend components and API workflows using Python and Agile practices
-- Built and optimized backend data-processing workflows and REST APIs
-- Designed and executed structured testing scenarios by analyzing logs and edge cases to improve reliability
-- Worked on workflow validation systems, modular orchestration, and secure AI execution concepts
+- Led intern teams in developing modular backend components and API workflows using Python and Agile methodologies
+- Built and optimized backend data-processing workflows and scalable REST APIs
+- Worked on workflow validation systems, orchestration pipelines, and secure execution concepts
+- Designed structured testing scenarios through failure-log analysis and edge-case validation
 
 ---
 
@@ -106,9 +126,9 @@ My engineering approach focuses on building:
 **May 2025 – September 2025**
 
 - Developed backend services using Python and RESTful APIs for enterprise applications
-- Built reliable inter-module communication systems and backend workflows
-- Debugged and resolved functional defects through API request-flow analysis and server-log validation
-- Executed unit and functional testing to ensure application stability and data integrity
+- Built reliable inter-module communication systems and scalable backend workflows
+- Debugged and resolved backend defects using API request-flow analysis and server-log validation
+- Executed unit and functional testing to ensure software stability and data integrity
 
 ---
 
@@ -118,11 +138,11 @@ My engineering approach focuses on building:
 
 | System | Description | Core Stack |
 |---|---|---|
-| **API Traffic Control Platform** | Middleware platform designed to regulate API traffic, validate requests, and handle high-load backend workflows | Python, FastAPI, PostgreSQL, Docker |
-| **Secure RBAC System** | Backend authentication and access-control framework implementing secure role-based access systems | Python, FastAPI, MySQL, JWT |
+| **API Traffic Control Platform** | Middleware platform designed for API traffic regulation, request validation, and high-load backend workflows | Python, FastAPI, PostgreSQL, Docker |
+| **Secure RBAC System** | Backend authentication and access-control framework implementing secure role-based authorization systems | Python, FastAPI, MySQL, JWT |
 | **Resilient Microservices** | Fault-tolerant backend architecture with scalable service orchestration and isolated environments | Docker, REST APIs, Python |
 | **SentinAL Orchestrator** | AI workflow orchestration framework designed for validated and reliable execution pipelines | Python, FastAPI, Validation Systems |
-| **Enterprise RAG System** | Context-aware retrieval and AI workflow platform integrating scalable document understanding pipelines | Python, RAG, LLM APIs |
+| **Enterprise RAG System** | Context-aware retrieval platform integrating scalable document understanding and AI workflows | Python, RAG, LLM APIs |
 | **Job Workflow Automation Platform** | Multi-source automation system for scheduled workflows and job-tracking orchestration | Python, Automation, Background Jobs |
 
 ---
@@ -132,8 +152,8 @@ My engineering approach focuses on building:
 # 📚 Leadership & Engineering Experience
 
 - Led academic and internship teams for backend engineering and workflow orchestration projects
-- Coordinated modular development workflows and structured engineering collaboration
-- Worked on AI workflow validation, backend reliability, and scalable infrastructure systems
+- Coordinated modular development workflows and engineering collaboration pipelines
+- Worked on backend reliability, workflow validation, and scalable infrastructure systems
 - Participated in hackathons, technical events, and collaborative engineering initiatives
 
 ---
