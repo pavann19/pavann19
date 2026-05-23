@@ -10,56 +10,20 @@ Software Engineer | Backend & AI Systems | Scalable Applications
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-gannoju/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:pavan9542644804@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 💡 About Me
 
-Computer Science (AI/ML) student focused on backend engineering, scalable applications, and AI-powered systems. Interested in distributed systems, APIs, AI infrastructure, workflow orchestration, and production-style software engineering.
+I enjoy building backend systems, scalable applications, and AI-powered workflows with a strong focus on reliability, modularity, and production-style engineering.
 
-- 🎓 B.Tech in Computer Science Engineering (AI/ML)
+Currently pursuing:
+- 🎓 B.Tech in Computer Science Engineering
 - 🧠 Minor in Artificial Intelligence from IIT Ropar
-- 🔧 Building backend systems, AI workflows, and scalable applications
-- 🚀 Interested in Backend Engineering, AI Infrastructure, and Systems Design
-- 📚 Exploring distributed systems and production-ready architectures
 
----
-
-# 💻 Engineering Focus
-
-### Backend & Infrastructure
-- REST API Development
-- FastAPI
-- Authentication & RBAC Systems
-- Backend Workflow Orchestration
-- Docker & Scalable Application Design
-
-### AI Systems & Applications
-- LLM Applications
-- RAG Pipelines
-- AI Workflow Automation
-- Prompt Engineering
-- Secure AI Execution Systems
-
-### Systems & Engineering
-- Modular Architecture
-- Validation Pipelines
-- API Traffic Management
-- Secure Backend Systems
-- Production-Oriented Engineering
+My interests include:
+- Backend Engineering
+- AI Infrastructure
+- Distributed Systems
+- Workflow Automation
+- Scalable API Architectures
 
 ---
 
@@ -108,6 +72,28 @@ Computer Science (AI/ML) student focused on backend engineering, scalable applic
 
 ---
 
+# 💼 Experience
+
+## Gen AI / LLM Intern — Digital Nexus AI
+**May 2025 – September 2025**
+
+- Developed backend APIs and RESTful services for AI-powered applications
+- Built workflow integrations and backend communication systems
+- Performed testing and validation for reliable application behavior
+- Worked with modular backend architectures and scalable API workflows
+
+---
+
+## AI Intern & Research Team Lead — Prodigal AI Technologies Pvt. Ltd.
+**March 2025 – November 2025**
+
+- Led modular AI workflow and backend orchestration initiatives
+- Worked on AI security, prompt validation, and secure execution systems
+- Contributed to research-oriented experimentation and engineering workflows
+- Coordinated backend architecture and workflow validation systems
+
+---
+
 # 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -118,26 +104,6 @@ Computer Science (AI/ML) student focused on backend engineering, scalable applic
 | **API Traffic Control Platform** | Middleware platform for request validation, monitoring, and traffic regulation | FastAPI, PostgreSQL |
 | **Resume Ranker** | AI-assisted resume evaluation and ranking system | Python, NLP |
 | **Jobs Tracker** | Automated workflow system for tracking jobs and application management | Python, Automation |
-
----
-
-# 💼 Experience
-
-## Gen AI / LLM Intern — Digital Nexus AI
-**May 2025 – September 2025**
-
-- Developed backend APIs and RESTful services for AI-powered applications
-- Worked on workflow integrations and backend communication systems
-- Performed testing and validation for reliable application behavior
-
----
-
-## AI Intern & Research Team Lead — Prodigal AI Technologies Pvt. Ltd.
-**March 2025 – November 2025**
-
-- Led modular AI workflow and backend orchestration initiatives
-- Worked on AI security, prompt validation, and secure execution systems
-- Contributed to research-oriented experimentation and engineering workflows
 
 ---
 
