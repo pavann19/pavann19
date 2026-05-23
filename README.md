@@ -1,50 +1,170 @@
 # Hi, I'm Pavan Kumar Gannoju 🚀
 
-**Software Engineer & Researcher | Embodied AI & Robotics | Secure AI Systems**
+## Software Engineer | Backend & AI Systems | Scalable Applications
 
-I am a Computer Science Engineering (AI/ML) student and researcher focused on bridging complex AI logic with physical systems, and building robust governance frameworks for autonomous agents. My current work centers on LLM safety architectures, digital identity containment, and robotic systems integration.
+Computer Science (AI/ML) student focused on backend engineering, scalable applications, and AI-powered systems. Interested in distributed systems, APIs, AI infrastructure, and production-style software engineering.
 
-📫 **Reach me at:** [pavan9542644804@gmail.com] | [https://www.linkedin.com/in/pavan-gannoju/] | [https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/]
-
----
-
-### 🔬 Research & Professional Focus
-*   **Embodied AI & Robotics:** Developing and simulating robotic workflows using **ROS 2**, **Modern C++**, and simulation environments (**Webots / Gazebo**).
-*   **Secure AI & Governance:** Designing robust defenses against prompt injection, ensuring tamper-proofing, and implementing human-in-the-loop escalation for LLMs.
-*   **Industry Research:** Previously served as an **AI Intern & Research Team Lead** at **Prodigal AI Technologies**, focusing on LLM prompt security, agentic AI governance, and reinforcement learning strategies resulting in two collaborative research papers.
+📫 **Connect with me:**  
+- Email: pavan9542644804@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pavan-gannoju/  
+- Portfolio: https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/
 
 ---
 
-### 🛠️ Technical Arsenal
-*   **Languages:** Python, Modern C++, Java
-*   **Robotics & Simulation:** ROS 2, Webots, Gazebo
-*   **AI/ML Stack:** LLM Architecture, Prompt Engineering, Agentic AI, RAG, PyTorch
-*   **Systems & Infrastructure:** AWS, Microservices Architecture, Cloud Auto-Scaling, Docker
+# 💻 Engineering Focus
+
+### Backend & Infrastructure
+- REST API Development
+- FastAPI
+- Authentication & RBAC Systems
+- Backend Workflow Orchestration
+- Docker & Scalable Application Design
+
+### AI Systems & Applications
+- LLM Applications
+- RAG Pipelines
+- AI Workflow Automation
+- Prompt Engineering
+- Secure AI Execution Systems
+
+### Systems & Engineering
+- Modular Architecture
+- Validation Pipelines
+- API Traffic Management
+- Secure Backend Systems
+- Production-Oriented Engineering
 
 ---
 
-### 🚀 Featured Systems & Architecture
+# 🛠️ Technical Stack
 
-#### [SentinAL](link-to-repo)
-**Enterprise AI Safety & Governance Framework**
-An advanced security layer for Large Language Models designed to intercept and mitigate adversarial attacks. 
-*   **Key Features:** Prompt injection/poisoning defense, Role-Based Access Control (RBAC), cryptographic tamper-proofing, and dynamic human-in-the-loop escalation protocols.
+## Languages
+- Python
+- Java
+- C++
+- SQL
+- JavaScript
 
-#### [IdentityGuard+](link-to-repo)
-**Privacy-Preserving Digital Identity Abuse Detection**
-A real-time detection and containment system mitigating deepfake and biometric misuse.
-*   **Key Features:** Aligned with privacy/trust frameworks (like the EU AI Act) to detect identity anomalies, isolate compromised instances, and protect user biometric footprints.
+## Backend & Infrastructure
+- FastAPI
+- REST APIs
+- PostgreSQL
+- MySQL
+- SQLite
+- Docker
+- Git & GitHub
 
-#### [AJIA-OS](link-to-repo)
-**Autonomous Job Intelligence Architecture**
-A multi-source intelligence layer and operating system designed to automate and orchestrate data scraping and workflow management for continuous career site monitoring.
+## AI & Application Systems
+- LLM Applications
+- RAG
+- PyTorch
+- Agentic AI Workflows
 
-#### [Resilient Cloud Architecture Hub](link-to-repo)
-**High-Availability Backend Infrastructure**
-A suite of backend tools including a fault-tolerant microservices platform and an auto-scaler equipped with real-time system monitoring.
+## Tools & Platforms
+- AWS
+- Streamlit
+- Vercel
+- Cursor AI
 
 ---
 
-### 📈 GitHub Stats
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-*(Replace `YOUR_GITHUB_USERNAME` in the URL above with your actual GitHub handle to activate this widget)*
+# 🚀 Featured Projects
+
+## SentinAL
+### AI Workflow & Secure Execution Framework
+
+A modular AI-powered assistant framework focused on controlled task execution, backend orchestration, and validation-based automation workflows.
+
+### Highlights
+- Validation pipelines
+- Role-aware execution
+- Local + cloud LLM integration
+- Secure workflow orchestration
+- Modular backend architecture
+
+---
+
+## Secure RBAC System
+### Authentication & Access-Control Platform
+
+A FastAPI-based authentication framework implementing secure role-based access control and session management.
+
+### Highlights
+- JWT Authentication
+- Role-Based Access Control
+- Session Isolation
+- Audit Logging
+- Secure API Design
+
+---
+
+## API Traffic Control Platform
+### Middleware & Request Regulation System
+
+A middleware platform designed for monitoring, validating, and regulating API traffic under high-load environments.
+
+### Highlights
+- API rate limiting
+- Request validation
+- Traffic monitoring
+- Logging pipeline
+- PostgreSQL integration
+
+---
+
+## AI Chatbot & RAG System
+### Context-Aware AI Assistant
+
+A retrieval-based AI assistant integrating document retrieval and context-aware response generation.
+
+---
+
+# 📚 Research & Leadership Experience
+
+Previously worked as:
+- AI Intern
+- Research Team Lead
+
+at Prodigal AI Technologies Pvt. Ltd., contributing to:
+- AI workflow systems
+- prompt security research
+- backend orchestration
+- modular experimentation frameworks
+
+---
+
+# 🏆 Verified Learning & Certifications
+
+- Google Cybersecurity Professional Certificate
+- Microsoft Cybersecurity & OS Fundamentals
+- SAP Code Unnati Advanced Training Program
+- Smart India Hackathon Participation
+- Python Data Structures
+- Google Data Analytics
+- Networks & Cisco Devices
+
+---
+
+# 📈 GitHub Stats
+
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavann19&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavann19&layout=compact&theme=tokyonight)
+
+---
+
+# 🌱 Current Focus
+
+- Backend Engineering
+- AI Infrastructure
+- Distributed Systems Fundamentals
+- Scalable APIs
+- Production-Ready Software Engineering
+
+---
+
+# 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/pavan-gannoju/
+- Portfolio: https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/
+- Email: pavan9542644804@gmail.com
