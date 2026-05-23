@@ -1,13 +1,40 @@
-# Hi, I'm Pavan Kumar Gannoju 🚀
+<h1 align="center">Hi 👋, I'm Pavan Kumar Gannoju</h1>
 
-## Software Engineer | Backend & AI Systems | Scalable Applications
+<h3 align="center">
+Software Engineer | Backend & AI Systems | Scalable Applications
+</h3>
 
-Computer Science (AI/ML) student focused on backend engineering, scalable applications, and AI-powered systems. Interested in distributed systems, APIs, AI infrastructure, and production-style software engineering.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+Systems+Developer;Scalable+Applications;Backend+%7C+AI+Infra+%7C+SWE" />
+</p>
 
-📫 **Connect with me:**  
-- Email: pavan9542644804@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/pavan-gannoju/  
-- Portfolio: https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan-gannoju/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pavan9542644804@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 About Me
+
+Computer Science (AI/ML) student focused on backend engineering, scalable applications, and AI-powered systems. Interested in distributed systems, APIs, AI infrastructure, workflow orchestration, and production-style software engineering.
+
+- 🎓 B.Tech in Computer Science Engineering (AI/ML)
+- 🧠 Minor in Artificial Intelligence from IIT Ropar
+- 🔧 Building backend systems, AI workflows, and scalable applications
+- 🚀 Interested in Backend Engineering, AI Infrastructure, and Systems Design
+- 📚 Exploring distributed systems and production-ready architectures
 
 ---
 
@@ -36,100 +63,98 @@ Computer Science (AI/ML) student focused on backend engineering, scalable applic
 
 ---
 
-# 🛠️ Technical Stack
+# 🛠️ Tech Stack
 
 ## Languages
-- Python
-- Java
-- C++
-- SQL
-- JavaScript
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ## Backend & Infrastructure
-- FastAPI
-- REST APIs
-- PostgreSQL
-- MySQL
-- SQLite
-- Docker
-- Git & GitHub
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
 ## AI & Application Systems
-- LLM Applications
-- RAG
-- PyTorch
-- Agentic AI Workflows
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Workflows-0F172A?style=for-the-badge"/>
+</p>
 
 ## Tools & Platforms
-- AWS
-- Streamlit
-- Vercel
-- Cursor AI
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## SentinAL
-### AI Workflow & Secure Execution Framework
-
-A modular AI-powered assistant framework focused on controlled task execution, backend orchestration, and validation-based automation workflows.
-
-### Highlights
-- Validation pipelines
-- Role-aware execution
-- Local + cloud LLM integration
-- Secure workflow orchestration
-- Modular backend architecture
+| Project | Description | Tech Stack |
+|---|---|---|
+| **SentinAL** | AI workflow orchestration & secure execution framework with validation pipelines and modular backend architecture | Python, FastAPI, SQLite |
+| **Enterprise RAG System** | Context-aware retrieval system integrating AI workflows and document understanding | Python, RAG, LLM APIs |
+| **Resilient Microservices** | Fault-tolerant backend architecture with scalable service orchestration | Docker, APIs, Python |
+| **API Traffic Control Platform** | Middleware platform for request validation, monitoring, and traffic regulation | FastAPI, PostgreSQL |
+| **Resume Ranker** | AI-assisted resume evaluation and ranking system | Python, NLP |
+| **Jobs Tracker** | Automated workflow system for tracking jobs and application management | Python, Automation |
 
 ---
 
-## Secure RBAC System
-### Authentication & Access-Control Platform
+# 💼 Experience
 
-A FastAPI-based authentication framework implementing secure role-based access control and session management.
+## Gen AI / LLM Intern — Digital Nexus AI
+**May 2025 – September 2025**
 
-### Highlights
-- JWT Authentication
-- Role-Based Access Control
-- Session Isolation
-- Audit Logging
-- Secure API Design
+- Developed backend APIs and RESTful services for AI-powered applications
+- Worked on workflow integrations and backend communication systems
+- Performed testing and validation for reliable application behavior
 
 ---
 
-## API Traffic Control Platform
-### Middleware & Request Regulation System
+## AI Intern & Research Team Lead — Prodigal AI Technologies Pvt. Ltd.
+**March 2025 – November 2025**
 
-A middleware platform designed for monitoring, validating, and regulating API traffic under high-load environments.
-
-### Highlights
-- API rate limiting
-- Request validation
-- Traffic monitoring
-- Logging pipeline
-- PostgreSQL integration
-
----
-
-## AI Chatbot & RAG System
-### Context-Aware AI Assistant
-
-A retrieval-based AI assistant integrating document retrieval and context-aware response generation.
+- Led modular AI workflow and backend orchestration initiatives
+- Worked on AI security, prompt validation, and secure execution systems
+- Contributed to research-oriented experimentation and engineering workflows
 
 ---
 
 # 📚 Research & Leadership Experience
 
-Previously worked as:
-- AI Intern
-- Research Team Lead
-
-at Prodigal AI Technologies Pvt. Ltd., contributing to:
+Worked on:
 - AI workflow systems
-- prompt security research
-- backend orchestration
-- modular experimentation frameworks
+- Prompt security research
+- Secure AI execution concepts
+- Backend orchestration
+- Modular experimentation frameworks
+
+Research interests include:
+- AI Infrastructure
+- Backend Systems
+- Workflow Reliability
+- Scalable Application Architectures
 
 ---
 
@@ -145,11 +170,13 @@ at Prodigal AI Technologies Pvt. Ltd., contributing to:
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavann19&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavann19&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavann19&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavann19&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -160,11 +187,22 @@ at Prodigal AI Technologies Pvt. Ltd., contributing to:
 - Distributed Systems Fundamentals
 - Scalable APIs
 - Production-Ready Software Engineering
+- Workflow Automation Systems
 
 ---
 
-# 📬 Contact
+# 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/pavan-gannoju/
-- Portfolio: https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/
-- Email: pavan9542644804@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavan-gannoju/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://pavann19.github.io/Pavan_kumar_gannoju_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pavan9542644804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
