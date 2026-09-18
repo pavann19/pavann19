@@ -14,8 +14,8 @@ I build backend and systems software and verify it with tests, fault injection, 
 
 |  |  |
 |---|---|
-| 🎓 **Education** | B.Tech, Computer Science & Engineering (AI/ML), graduated April 2026 · Minor in Artificial Intelligence, IIT Ropar |
-| 💼 **Experience** | Two software engineering internships (AI / Gen AI), 2025 |
+| 🎓 **Education** | B.Tech, Computer Science & Engineering (AI/ML), graduated April 2026 · Major in Artificial Intelligence, IIT Ropar (online programme via Masai/NSDC) |
+| 💼 **Experience** | AI Intern → Research Team Lead and Gen AI / LLM Intern, 2025 (part-time) |
 | 🎯 **Looking for** | Software engineering roles in Germany · Master's planned for Summer 2027 |
 | 🧰 **Main stack** | Java · Go · Rust · Python · PostgreSQL · Kafka · Kubernetes |
 
@@ -36,13 +36,13 @@ I build backend and systems software and verify it with tests, fault injection, 
 
 ## 💼 Experience
 
-**Software Engineering Intern (AI Intern) — Prodigal AI Technologies Pvt. Ltd.** · *March 2025 – November 2025 (part-time)*
+**AI Intern → Research Team Lead — Prodigal AI Technologies Pvt. Ltd.** · *March 2025 – November 2025 (part-time)*
 - Led intern teams building modular backend components and API workflows in Python, following Agile practice
 - Built and optimized backend data-processing workflows and scalable REST APIs
 - Worked on workflow validation, orchestration pipelines and secure-execution concepts
 - Designed structured test scenarios from failure-log analysis and edge-case validation
 
-**Software Engineering Intern (Gen AI / LLM Intern) — Digital Nexus AI** · *May 2025 – September 2025 (part-time)*
+**Gen AI / LLM Intern — Digital Nexus AI** · *May 2025 – September 2025 (part-time)*
 - Developed backend services in Python with RESTful APIs for enterprise applications
 - Built reliable inter-module communication and scalable backend workflows
 - Debugged backend defects through API request-flow analysis and server-log validation
