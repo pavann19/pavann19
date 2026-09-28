@@ -34,7 +34,7 @@ Build something, test it, find what breaks, then fix it.
 | **German**        | A2 in progress                                                                              |
 | **Relocating to** | Ilmenau, Germany                                                                            |
 | **Looking for**   | Junior Software Engineer · Backend Engineer · Werkstudent · Software Engineering Internship |
-| **Available**     | 1 April 2027                                                                                |                                                                       |
+| **Available**     | 1 April 2027                                                                                |                                                          
 ---
 
 ## Education
