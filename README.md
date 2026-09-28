@@ -1,8 +1,8 @@
 <h1 align="center">Pavan Kumar Gannoju</h1>
 
 <p align="center">
-  <b>Software Engineer</b><br>
-  Backend Systems · Distributed Systems · Infrastructure · Security
+  <b>Backend / Platform Engineer</b><br>
+  Java · Go · Kubernetes · Azure · AI Security
 </p>
 
 <p align="center">
@@ -21,21 +21,20 @@
 
 ## About
 
-I build backend and systems software because I like understanding what happens underneath the application layer.
+I build backend and platform systems and verify them with **CI, fault injection, fuzzing, cloud evidence, and reproducible tests**.
 
-Most of my recent work has been around **backend services, databases, distributed systems, Kubernetes and security**. I also build lower-level projects when I want to explore storage, operating systems, concurrency and failure handling.
+Most of my recent work has been around backend services, databases, distributed systems, Kubernetes and security. I also build lower-level projects when I want to explore storage, operating systems, concurrency and failure handling.
 
 I prefer projects where I can explain the design, the trade-offs, the bugs I found and how I tested the result.
 
 Build something, test it, find what breaks, then fix it.
 
-| |  |
+|                   |                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------- |
-| **German** | A2 in progress                                                                            |
+| **German**        | A2 in progress                                                                              |
 | **Relocating to** | Ilmenau, Germany                                                                            |
 | **Looking for**   | Junior Software Engineer · Backend Engineer · Werkstudent · Software Engineering Internship |
-| **Available**     | 1 April 2027                                                                                |
-
+| **Available**     | 1 April 2027                                                                                |                                                                       |
 ---
 
 ## Education
@@ -71,22 +70,10 @@ Build something, test it, find what breaks, then fix it.
 
 > Financial ledger built around double-entry accounting and database-enforced invariants.
 
-* **258.9 req/s (pessimistic locking)** under high contention in the recorded local k6 run using Docker Compose on a Windows developer laptop with Docker Desktop; Postgres, Kafka and the services shared the host CPU and disk.
+* **258.9 req/s (pessimistic locking)** under high contention in the recorded local k6 run using Docker Compose on a Windows developer laptop with Docker Desktop.
 * Under the same hot-account workload, optimistic locking reached 60.4 req/s with 13.5% request failures, while serializable isolation reached 50.0 req/s with 13.4% request failures; these were final HTTP failures after retry/abort exhaustion.
 * Built idempotent transfers, deterministic locking, PostgreSQL constraints, transactional outbox and Kafka projections.
-* A short-lived Azure evidence run completed 7,508/7,508 transfers successfully before the environment was removed.
-
----
-
-### [QuorumKV](https://github.com/pavann19/QuorumKV)
-
-**Go · Raft · gRPC · WAL**
-
-> Replicated key-value store built to explore storage, consensus and failure recovery.
-
-* **100 crash-recovery trials** against a real subprocess, checking that committed writes survived abrupt termination.
-* Built a CRC-checked, `fsync`-backed WAL and a real 3-process Raft cluster with leader election and recovery.
-* Added custom network fault injection for partitions, delays and rolling failures; client histories from five scenarios passed Porcupine linearizability checks.
+* **Azure evidence run completed:** smoke checks passed, k6 correctness profile passed, PostgreSQL invariant checks completed, and resource-group cleanup was confirmed.
 
 ---
 
@@ -102,15 +89,28 @@ Build something, test it, find what breaks, then fix it.
 
 ---
 
-### [Agentic-OS](https://github.com/pavann19/Agentic-OS)
+### [SentinAL](https://github.com/pavann19/SentinAL-Desktop-AI-Orchestration)
 
-**Rust · x86_64 · UEFI · QEMU**
+**Python · Windows · Desktop Automation**
 
-> From-scratch operating-system project focused on capability-based resource access.
+> Desktop automation project where important actions are checked outside the model.
 
-* **CI verifies** capability revocation, syscall/IPC boundaries, address-space isolation and UEFI boot.
-* Implemented capability management, memory management, IPC and user-space services.
-* Currently QEMU-only; physical hardware support remains future work.
+* **96.7% end-to-end task success** across 120 evaluated tasks with independent Windows OS-state verification.
+* Separates permissions from execution and checks whether the expected system state actually changed.
+* 66/66 adversarial cases were blocked in the recorded security fuzz suite.
+* Windows-only; 6 of 19 intents still lack independent postcondition checks.
+
+---
+
+### [QuorumKV](https://github.com/pavann19/QuorumKV)
+
+**Go · Raft · gRPC · WAL**
+
+> Replicated key-value store built to explore storage, consensus and failure recovery.
+
+* **100 crash-recovery trials** against a real subprocess, checking that committed writes survived abrupt termination.
+* Built a CRC-checked, `fsync`-backed WAL and a real 3-process Raft cluster with leader election and recovery.
+* Added custom network fault injection for partitions, delays and rolling failures; client histories from five scenarios passed Porcupine linearizability checks.
 
 ---
 
@@ -126,16 +126,15 @@ Build something, test it, find what breaks, then fix it.
 
 ---
 
-### [SentinAL](https://github.com/pavann19/SentinAL-Desktop-AI-Orchestration)
+### [Agentic-OS](https://github.com/pavann19/Agentic-OS)
 
-**Python · Windows · Desktop Automation**
+**Rust · x86_64 · UEFI · QEMU**
 
-> Desktop automation project where important actions are checked outside the model.
+> From-scratch operating-system project focused on capability-based resource access.
 
-* **96.7% end-to-end task success** across 120 evaluated tasks with independent Windows OS-state verification.
-* Separates permissions from execution and checks whether the expected system state actually changed.
-* 66/66 adversarial cases were blocked in the recorded security fuzz suite.
-* Windows-only; 6 of 19 intents still lack independent postcondition checks.
+* **CI verifies** capability revocation, syscall/IPC boundaries, address-space isolation and UEFI boot.
+* Implemented capability management, memory management, IPC and user-space services.
+* Currently QEMU-only; physical hardware support remains future work.
 
 ---
 
