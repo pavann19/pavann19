@@ -65,78 +65,43 @@ Build something, test it, find what breaks, then fix it.
 ## Selected Projects
 
 ### [LedgerLine](https://github.com/pavann19/LedgerLine)
-
 **Java 21 · Spring Boot · PostgreSQL · Kafka**
-
 > Financial ledger built around double-entry accounting and database-enforced invariants.
-
-* **258.9 req/s (pessimistic locking)** under high contention in the recorded local k6 run using Docker Compose on a Windows developer laptop with Docker Desktop.
-* Under the same hot-account workload, optimistic locking reached 60.4 req/s with 13.5% request failures, while serializable isolation reached 50.0 req/s with 13.4% request failures; these were final HTTP failures after retry/abort exhaustion.
-* Built idempotent transfers, deterministic locking, PostgreSQL constraints, transactional outbox and Kafka projections.
-* **Azure evidence run completed:** smoke checks passed, k6 correctness profile passed, PostgreSQL invariant checks completed, and resource-group cleanup was confirmed.
-
----
+* Idempotent, principal-scoped transfers, deterministic locking, PostgreSQL constraints, a transactional outbox and Kafka projections.
+* Recorded Azure runs on 2026-10-26 reached 322.83 and 329.80 transfers/s with p95 362.01 and 341.11 ms and zero failures, on Premium SSD v2 storage; the repository states this is not a code-only improvement over earlier runs.
+* A disposable Azure acceptance run passed smoke checks, a k6 correctness profile, SQL invariant checks and cleanup. Production operation is not claimed.
 
 ### [ModelGate](https://github.com/pavann19/ModelGate)
-
-**Go · Kubernetes · cosign · safetensors**
-
-> Kubernetes admission webhook for signed container images and verified model artifacts.
-
-* **2 real admission bypasses fixed**: image swaps through `kubectl set image` and ephemeral-container injection.
-* Fuzz-tested artifact validation and added real cosign integration testing.
-* kind-cluster smoke tests run in CI, with fail-closed admission and Helm/Kustomize deployment paths.
-
----
+**Go · Kubernetes · cosign**
+> Kubernetes validating admission webhook for signed image digests and bounded local model-artifact checks.
+* Regression tests cover image updates and ephemeral-container admission; real registry/signature acceptance and mocked-verifier bypass tests are documented separately.
+* Fuzzing, cosign integration, envtest and kind smoke tests run in CI; admission fails closed.
 
 ### [SentinAL](https://github.com/pavann19/SentinAL-Desktop-AI-Orchestration)
-
 **Python · Windows · Desktop Automation**
-
-> Desktop automation project where important actions are checked outside the model.
-
-* **96.7% end-to-end task success** across 120 evaluated tasks with independent Windows OS-state verification.
-* Separates permissions from execution and checks whether the expected system state actually changed.
-* 66/66 adversarial cases were blocked in the recorded security fuzz suite.
-* Windows-only; 6 of 19 intents still lack independent postcondition checks.
-
----
+> Supervised desktop voice/text agent with deterministic action controls and OS-state postcondition checks.
+* A historical local benchmark recorded 116/120 successful executions (40 tasks, three repeats each; 96.7%); failures were in multi-step tasks.
+* A finite authored adversarial suite reported 66/66 cases blocked. This is not a universal security guarantee.
+* Windows-only; some actions lack independent postcondition checks.
 
 ### [QuorumKV](https://github.com/pavann19/QuorumKV)
-
 **Go · Raft · gRPC · WAL**
-
 > Replicated key-value store built to explore storage, consensus and failure recovery.
-
-* **100 crash-recovery trials** against a real subprocess, checking that committed writes survived abrupt termination.
-* Built a CRC-checked, `fsync`-backed WAL and a real 3-process Raft cluster with leader election and recovery.
-* Added custom network fault injection for partitions, delays and rolling failures; client histories from five scenarios passed Porcupine linearizability checks.
-
----
+* 100 crash-recovery trials with a real subprocess, checking that acknowledged writes survived abrupt termination (process kill, not power loss).
+* CRC-checked, fsync-backed WAL, a real 3-process Raft cluster, custom network fault injection, and client histories from five scenarios checked with Porcupine.
+* No successful 24-hour or multi-host run is claimed.
 
 ### [Gatekeeper](https://github.com/pavann19/Gatekeeper-AI-Infrastructure-and-Governance-Gateway)
-
-**Python · FastAPI · Redis · FAISS · SQLite**
-
-> Backend gateway that evaluates requests before they reach a language model.
-
-* **70.0% recall at a 5% false-positive-rate operating point** on a 6,933-prompt evaluation suite.
-* Combines rule checks, PII detection, similarity search and multiple detectors, with Redis-backed rate limiting and circuit breaking.
-* Repository includes calibration, profiling and evaluation results with documented limitations.
-
----
+**Python · FastAPI · Redis · FAISS**
+> Governance gateway that assesses prompts and outputs before they reach a language model.
+* Privacy processing, input and output assessment, tenant policy, human review and audited tool execution; Redis shares configured rate limits (circuit breakers are process local).
+* Evaluation notes distinguish frozen-oracle replay, model accuracy and deployment evidence; no current independent accuracy headline is published.
 
 ### [Agentic-OS](https://github.com/pavann19/Agentic-OS)
-
 **Rust · x86_64 · UEFI · QEMU**
-
-> From-scratch operating-system project focused on capability-based resource access.
-
-* **CI verifies** capability revocation, syscall/IPC boundaries, address-space isolation and UEFI boot.
-* Implemented capability management, memory management, IPC and user-space services.
-* Currently QEMU-only; physical hardware support remains future work.
-
----
+> Experimental capability-based OS project.
+* CI covers the documented boot and capability-revocation boundary; other features have separate local or partial status.
+* QEMU-only; physical hardware support remains future work.
 
 ## Experience
 
